@@ -1,0 +1,5 @@
+
+*.pyc
+*.storageData
+*.storageRecordIndex
+.idea/workspace.xml
